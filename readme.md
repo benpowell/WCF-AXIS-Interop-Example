@@ -34,5 +34,6 @@ follows through the process of creating the client proxy and overriding the SOAP
 the message is sent.
 
 A full description of the process can be found here:
- - http://www.box.net/shared/ooom8db1i0
- - http://benpowell.org/supporting-the-ws-i-basic-profile-password-digest-in-a-wcf-client-proxy/
+ - Source code - https://github.com/benpowell/WCF-AXIS-Interop-Example/
+ - Download - http://www.box.net/shared/ooom8db1i0
+ - Discussion and original source - http://benpowell.org/supporting-the-ws-i-basic-profile-password-digest-in-a-wcf-client-proxy/
